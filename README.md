@@ -1,4 +1,3 @@
-Bilkul. Tumhare RTOS-Based Edge IoT Gateway with Cloud Monitoring project ke GitHub ke liye ye professional README.md content use karo. Isme tumhare actual project ke STM32 + FreeRTOS + ESP32 + UART + ACK + Wi-Fi + ThingSpeak + SystemView workflow ko cover kiya hai.
 
 # RTOS-Based Edge IoT Gateway with Cloud Monitoring
 
